@@ -10,17 +10,17 @@
 
 ### Home Page:
 <p align="center">
-<img src="https://drive.google.com/file/d/16ErY44hxEL658fGdtS8e4isH5GLLWMYA/view?usp=drive_link" width="800" alt="Image 2">
+<img src="https://drive.google.com/uc?export=view&id=16ErY44hxEL658fGdtS8e4isH5GLLWMYA" alt="My Image" />
 </p>
 
 ### Input Page:
 <p align="center">
- <img src="https://drive.google.com/file/d/1rzX2Hmarh_FeqHu7ur3P_I17Cca71wQG/view?usp=drive_link" width="800" alt="Image 1">
+ <img src="https://drive.google.com/uc?export=view&id=1rzX2Hmarh_FeqHu7ur3P_I17Cca71wQG" alt="My Image" />
 </p>
 
 ### Recommendation Output:
 <p align="center">
- <img src="https://drive.google.com/file/d/1zl1vo_XGsEobke6zEsol8__Bm-mIoDUj/view?usp=drive_link" width="800" alt="Image 3">
+ <img src="https://drive.google.com/uc?export=view&id=1zl1vo_XGsEobke6zEsol8__Bm-mIoDUj" alt="My Image" />
 </p>
 
 ## **Installation and Setup**
